@@ -1,4 +1,4 @@
-#!/home/alu/dj_project/educa/bin/python
+#!/home/alu/dj_project/educa/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
